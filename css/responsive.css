@@ -1,0 +1,32 @@
+/***MEDIA QUERIES***
+*******************/
+
+@media screen and (max-width: 1024px) {
+    .navbar-default.navbar-custom {
+        font-size: 13px;
+    }
+
+    .content_box.show {
+        margin-top: auto;
+    }
+}
+
+
+
+
+@media screen and (max-width: 468px) {
+    .navbar-default.navbar-custom {
+        font-size: 15px;
+    }
+
+    .carousel-indicators {
+        top: 280px;
+    }
+
+    .content_box.show {
+        margin-top: auto;
+    }
+}
+
+
+
